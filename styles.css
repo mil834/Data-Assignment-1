@@ -1,0 +1,21 @@
+html {
+    font-size: 16px;
+}
+
+body {
+    background-color: #F35E9B
+}
+
+.flexbox-container {
+    display: flex;
+    max-width: 1200px;
+}
+
+.flexbox {
+    width: 700px;
+    margin: 5%;
+}
+
+img {
+    width: 150px;
+}
